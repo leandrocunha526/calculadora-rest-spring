@@ -1,6 +1,7 @@
 # Calculadora REST API
 
-- API REST uses:
+## API REST uses:
+
 - [Spring BOOT](https://spring.io/projects/spring-boot)
 - [Swagger](https://swagger.io/)
 
